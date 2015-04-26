@@ -1,0 +1,9 @@
+# Maintainer: adelq
+
+pkgname=shibboleth
+pkgver=2.5.3
+pkgrel=1
+pkgdesc="Federated web single sign-on system (Apache module)"
+arch=('any')
+url="http://shibboleth.net/"
+license=('Apache')

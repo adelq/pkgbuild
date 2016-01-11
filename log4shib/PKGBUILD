@@ -14,7 +14,7 @@ sha256sums=('b34cc90f50962cc245a238b472f72852732d32a9caf9a10e0244d0e70a311d6d')
 
 prepare() {
     cd "${srcdir}/${pkgname}-${pkgver}"
-    pwd
+
     ./configure --disable-static --disable-doxygen
 }
 

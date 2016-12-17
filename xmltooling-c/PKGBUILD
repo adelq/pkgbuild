@@ -7,7 +7,7 @@ pkgrel=1
 pkgdesc='A lower-level library that provides a higher level interface to XML processing, particularly in light of signing and encryption'
 arch=('i686' 'x86_64')
 url="http://shibboleth.net/"
-license=('LGPL2')
+license=('Apache')
 
 depends=('gcc-libs' 'openssl' 'curl' 'log4shib' 'xerces-c' 'boost' 'xml-security-c')
 source=("http://shibboleth.net/downloads/c++-opensaml/${_opensamlver}/xmltooling-${pkgver}.tar.gz")

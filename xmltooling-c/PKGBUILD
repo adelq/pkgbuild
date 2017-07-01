@@ -1,8 +1,8 @@
 # Maintainer: Adel Qalieh <aqalieh95 at gmail dot com>
 
 pkgname=xmltooling-c
-pkgver=1.5.6
-_opensamlver=2.5.5
+pkgver=1.6.0
+_opensamlver=2.6.0
 pkgrel=1
 pkgdesc='A lower-level library that provides a higher level interface to XML processing, particularly in light of signing and encryption'
 arch=('i686' 'x86_64')
